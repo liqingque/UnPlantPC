@@ -5,12 +5,12 @@ The official implementation of the paper：
 Contact: xiaomengli@cau.edu.cn Any questions or discussion are welcome!
 
 -----
-+ [2025.02.14] We have uploaded the dataset, which can be downloaded from the following link: https://drive.google.com/file/d/1uJoQVBfs39XP36-uaCVHlGGvPRQN9Qou/view?usp=drive_link.
++ [2025.02.14] We have uploaded the dataset, which can be downloaded from the following link: https://drive.google.com/file/d/1aJSs3iaMcyP2C7Hkzo98SDxwBytxeigB/view?usp=sharing.
 
 + [2025.02.24] We have initialized the repo. The related resources will be released after the manuscript is accepted.
 
 
-<img src="assets/PlantPCC.png" alt="Dataset" width="800" height="600">
+<img src="assets/PlantPCom.png" alt="Dataset" width="800" height="600">
 
 
 
