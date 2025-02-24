@@ -10,7 +10,7 @@ Contact: xiaomengli@cau.edu.cn Any questions or discussion are welcome!
 + [2025.02.24] We have initialized the repo. The related resources will be released after the manuscript is accepted.
 
 
-<img src="assets/PlantPCom.png" alt="Dataset" width="800" height="600">
+<img src="PlantPCom.png" alt="Dataset" width="800" height="600">
 
 
 
