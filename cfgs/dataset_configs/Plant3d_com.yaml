@@ -1,0 +1,13 @@
+NAME: Plant3d_com
+CATEGORY_FILE_PATH: /data1/LXM/Plant3d_com/Plant3d_com_all.json
+N_POINTS: 16384
+N_RENDERINGS: 20
+#PARTIAL_POINTS_PATH: data/Plant3d_com/%s/partial/%s/%s/%02d.pcd
+# PARTIAL_POINTS_PATH: /data3/testdata/lixiaomeng/Plant3d_com/%s/partial/%s/%s/%s_%02d.pcd #占位符修改
+# COMPLETE_POINTS_PATH: /data3/testdata/lixiaomeng/Plant3d_com/%s/complete/%s/%s.pcd
+  
+#dd/data/lixiaomeng/point_completion/PoinTr/data/Plant3d_com  /data1/LXM/Plant3d_com
+#/data3/testdata/lixiaomeng/Plant3d_com/
+PARTIAL_POINTS_PATH: /data1/LXM/Plant3d_com/%s/partial/%s/%s/%s_%02d.pcd #占位符修改
+COMPLETE_POINTS_PATH: /data1/LXM/Plant3d_com/%s/complete/%s/%s.pcd
+CARS: FALSE

@@ -1,0 +1,18 @@
+NAME: Plant3d_complete
+##！决定数据集读取方式
+#CATEGORY_FILE_PATH: /data/DATASETS/3D/Plant3DCom-V2/Plant3DCom_mai.json
+CATEGORY_FILE_PATH:/data1/LXM/Plant3d_com/Plant3d_com_tomato.json #/data/DATASETS/3D/Plant3d_com/Plant3d_com_sorghum.json #/data/DATASETS/3D/Plant3d_com/Plant3d_com_tobaccon.json #/data/DATASETS/3D/Plant3d_com/Plant3d_com_Chenopodium.json #/data/DATASETS/3D/Plant3d_com/Plant3d_com_tomato.json #/data/DATASETS/3D/Plant3d_com/Plant3d_com_tamato.json
+##/data/DATASETS/3D/Plant3DCom-V2/Plant3DCom_Chenopodium.json
+#Arabidopsis,sorghum,tobaccon    Plant3d_com_tomato
+
+N_POINTS: 2048
+N_RENDERINGS: 20
+#PARTIAL_POINTS_PATH: data/Plant3d_com/%s/partial/%s/%s/%02d.pcd
+# PARTIAL_POINTS_PATH: /data/DATASETS/3D/Plant3DCom-V2/%s/partial/%s/%s/%s_%02d.pcd #占位符修改
+# COMPLETE_POINTS_PATH: /data/DATASETS/3D/Plant3DCom-V2/%s/complete_2048/%s/%s.pcd
+PARTIAL_POINTS_PATH: /data1/LXM/Plant3d_com/%s/partial/%s/%s/%s_%02d.pcd #占位符修改
+COMPLETE_POINTS_PATH: /data1/LXM/Plant3d_com/%s/complete_2048/%s/%s.pcd
+CARS: FALSE
+#dd/data/lixiaomeng/point_completion/PoinTr/data/Plant3d_com  
+#3 /data/DATASETS/3D/Plant3d_com/Plant3d_com.json2222
+# 
